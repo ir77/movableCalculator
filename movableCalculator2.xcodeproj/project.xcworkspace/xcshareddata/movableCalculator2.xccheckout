@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CCF33DA7-3890-42D7-A788-C22AE1D3CEC0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>movableCalculator2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9FA6A1A9-CDB4-4FBF-8BC2-E22AF0626868</key>
+		<string>ssh://github.com/ir77/movableCalculator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>movableCalculator2.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9FA6A1A9-CDB4-4FBF-8BC2-E22AF0626868</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/ir77/movableCalculator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9FA6A1A9-CDB4-4FBF-8BC2-E22AF0626868</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9FA6A1A9-CDB4-4FBF-8BC2-E22AF0626868</string>
+			<key>IDESourceControlWCCName</key>
+			<string>movableCalculator2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
